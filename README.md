@@ -52,12 +52,12 @@ Note :
 1. **Clone the Project**: Start by cloning the project from your friend's GitHub repository to your local machine.
 
    ```bash
-   git clone https://github.com/TzyProgrammer/IoT-Panasonic.git
+   git clone https://github.com/RyshaNidya/IoT-Phase-3.git
    ```
 
 2. **Navigate to the project directory**
    ```bash
-   cd IoT_Panasonic
+   cd IoT-Phase-3
 
 3. **Install Composer Dependencies**: Navigate to the newly cloned project directory and install Composer dependencies.
 

@@ -10,7 +10,9 @@
 </head>
 
 <body>
-    <h1 class="text-9xl text-red-700 font-bold text-center">Yurisha Anindya</h1>
+    <div id="kiri" class="w-1/2 bg-green-600 h-screen border">
+        <h1>yurisha</h1>
+    </div>
 </body>
 
 </html>

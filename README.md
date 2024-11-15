@@ -79,20 +79,19 @@ Note :
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
    ```
-   
-
-6. **Launch The App**
-   ```bash
-   php artisan serve
-   ```
 
 
-7. **Database COnfiguration**
+6. **Database COnfiguration**
    - import database `db-iot-phase-3.sql` to your phpmyadmin database
    - set `DB_CONNECTION=sqlite` to `DB_CONNECTION=mysql`.
    - uncomment `DB_HOST=127.0.0.1` `DB_PORT=3306` `DB_DATABASE=laravel_11' 'DB_USERNAME=root' 'DB_PASSWORD=` 
    - set `DB_DATABASE=laravel_11` to `DB_DATABASE=db-iot-phase-3`
 
+
+7. **Launch The App**
+   ```bash
+   php artisan serve
+   ```
 
 
 ## Handling Errors

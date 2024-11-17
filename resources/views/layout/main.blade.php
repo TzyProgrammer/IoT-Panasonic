@@ -10,8 +10,8 @@
 </head>
 
 <body>
-    <div >
-        <a class="bg-green-500 border" href="/login">Login</a>
+    <div class="mx-auto w-fit mt-3 bg-green-500 border rounded p-5 font-bold text-white text-center text-3xl">
+        <a class="  " href="/login">Login</a>
     </div>
 </body>
 

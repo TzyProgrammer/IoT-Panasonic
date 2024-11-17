@@ -89,8 +89,13 @@ Note :
 
 
 7. **Launch The App**
+   - 1 terminal for run the laravel
    ```bash
    php artisan serve
+   ```
+   - 1 terminal for vite
+   ```bash
+   npm run dev
    ```
 
 

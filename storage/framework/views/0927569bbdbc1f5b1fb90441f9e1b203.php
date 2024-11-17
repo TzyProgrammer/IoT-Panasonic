@@ -10,8 +10,8 @@
 </head>
 
 <body>
-    <div id="kiri" class="w-1/2 bg-green-600 h-screen border">
-        <h1>yurisha</h1>
+    <div >
+        <a class="bg-green-500 border" href="/login">Login</a>
     </div>
 </body>
 

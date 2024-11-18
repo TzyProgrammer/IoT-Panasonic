@@ -31,8 +31,6 @@ Kelompok PBL IF-13 DAN IF-14, Beranggotakan:
 <br>
 
 ## About the App
-<!-- gambar taro di src -->
-<img align="center" alt="Coding" width="400" src="dashboard_gxdojo.png"> 
 
 Proyek "IoT Energy Phase 3" merupakan sebuah proyek kolaborasi yang bertujuan untuk  memenuhi permintaan PT Panasonic. Tujuan utamanya adalah menciptakan maket atau miniatur yang mendemonstrasikan penggunaan energi bersih berbasis teknologi IoT. Ruang lingkup proyek ini mencakup, namun tidak terbatas pada, hal-hal berikut:
 <br>

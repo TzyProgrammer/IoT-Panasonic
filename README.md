@@ -1,3 +1,5 @@
-aku pindahin ke sini https://github.com/RyshaNidya/IoT-Phase-3 
-soalle error mulu mau ubah ke 11 nya dri github ku ke sini
-sory ges
+* ⚠️ Github Ini Akan Digunakan Untuk Pemograman Perangkat Keras. <br>
+Untuk Pembuatan Website Akan Dialihkan Ke https://github.com/RyshaNidya/IoT-Phase-3 <br>
+Silahkan Untuk Mengonfigurasikan Ulang Github Nya Dan Menambahkan Github Untuk Pengerjaan Web Ke Link Diatas <br>
+Atas Perhatiannya, Terima Kasih <br>
+----------
